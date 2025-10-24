@@ -1,0 +1,5 @@
+.env
+*.log
+*.gpg
+/tmp/
+.DS_Store
