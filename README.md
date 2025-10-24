@@ -59,7 +59,7 @@ This ensures seamless data recovery using the same configuration.
 ## Installation
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/yourusername/auto-db-backup.git
+   git clone https://github.com/hesam-fattahi/auto-db-backup.git
    cd auto-db-backup
    ```
 
